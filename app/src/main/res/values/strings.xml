@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="svsDisabled">NO SVS</string>
+    <string name="svsEnabled">svsEnabled</string>
+    <string name="gstDisabled">GST</string>
+    <string name="gstEnabled">GSTDISABLED</string>
+    <string name="Discount">Discount(%)</string>
+
+
+
+
+</resources>
